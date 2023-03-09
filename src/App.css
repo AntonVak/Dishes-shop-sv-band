@@ -1,0 +1,10 @@
+.app{
+    display:flex;
+    align-items: center;
+}
+.name {
+    width: 300px;
+}
+.count {
+    width: 82px;
+}
